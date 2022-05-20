@@ -1,4 +1,3 @@
-from tkinter.ttk import Separator
 import streamlit as st
 import pandas as pd
 from pytube import extract
