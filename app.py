@@ -3,7 +3,7 @@ import pandas as pd
 from pytube import extract
 from apiclient.discovery import build
 from modules.yt_functions import get_channel_videos, scrape_comments_with_replies
-import time
+
 st.title("YouTube Web Scrapper")
 st.text("With this simple app you can get all comments from any channel on Youtube. You just need a Youtube API Key.")
 st.text("To get this key, you just nedd to follow simple steps in the Google Cloud Plataform")
