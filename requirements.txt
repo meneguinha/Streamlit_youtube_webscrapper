@@ -3,3 +3,4 @@ pytube
 pandas
 streamlit
 xlsxwriter
+pyxlsb
